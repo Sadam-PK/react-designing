@@ -1,9 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter as Router, Link, Routes, Route } from 'react-router-dom'
 import Login from './components/login';
 import Registration from './components/registration';
 import './main.css'
+
 
 function App() {
   return (
